@@ -25,7 +25,7 @@ public class Code17_1 {
             e.printStackTrace();
         }
         
-        bublleSort();
+        bubbleSort();
         
         for (int i=0; i<n; i++){
             System.out.println("name : " +names[i]+", number : "+numbers[i]);
@@ -34,7 +34,7 @@ public class Code17_1 {
 
     }
 
-    private static void bublleSort() {
+    private static void bubbleSort() {
 
         for (int i=n-1; i>0; i--)
             for (int j=0; j<i; j++){
