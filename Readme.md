@@ -34,3 +34,8 @@
 - [파일에있는 데이터 객체 담고 버블정렬](src/com/company/study/structure04_2_class_object/Code03.java)
 - [다항함수](src/com/company/study/structure04_2_class_object/다항함수.md)
 
+
+## static 과 public
+
+- [static과object이해하기](src/com/company/study/structure06_static_public/Test.java)
+- [접근제어](src/com/company/study/structure06_static_public/접근제어.md)
