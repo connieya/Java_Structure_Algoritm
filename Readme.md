@@ -39,3 +39,22 @@
 
 - [static과object이해하기](src/com/company/study/structure06_static_public/Test.java)
 - [접근제어](src/com/company/study/structure06_static_public/접근제어.md)
+
+## 상속(Inheritance)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****
+
+1. 상속하는 것 VS 필드에 타입형으로 저장하는 것은 어떻게 결정할까?
