@@ -49,12 +49,13 @@
 
 
 
-
-
-
-
-
-
 ****
 
 1. 상속하는 것 VS 필드에 타입형으로 저장하는 것은 어떻게 결정할까?
+
+# 영리한 프로그래밍을 위한 알고리즘 강좌
+
+## 순환
+
+- [순환의 개념 / 최대공약수](src/com/company/study/algorithm/lesson01_recursion/1.md)
+- [순환의 개념과 예제](src/com/company/study/algorithm/lesson01_recursion/2.md)

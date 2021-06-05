@@ -4,7 +4,14 @@ import java.util.Scanner;
 
 public class Code01 {
 
+    int num;
+
+    public void calc(){
+        num =5;
+    }
     public static void main(String[] args) {
+
+
 
         String str = "hello";
 
