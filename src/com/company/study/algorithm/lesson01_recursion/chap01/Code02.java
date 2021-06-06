@@ -1,5 +1,3 @@
-package com.company.study.algorithm.lesson01_recursion;
-
 import java.util.Scanner;
 
 public class Code02 {

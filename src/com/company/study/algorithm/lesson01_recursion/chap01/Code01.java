@@ -1,5 +1,3 @@
-package com.company.study.algorithm.lesson01_recursion;
-
 public class Code01 {
     public static void main(String[] args) {
         func(11);
