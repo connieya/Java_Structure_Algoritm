@@ -61,3 +61,6 @@
 - [순환의 개념과 예제](src/com/company/study/algorithm/lesson01_recursion/chap02/2.md)
 - [순환 알고리즘의 설계](src/com/company/study/algorithm/lesson01_recursion/chap03/3.md)
 - [Recursion 의 응용 - 미로 찾기](src/com/company/study/algorithm/lesson01_recursion/chap04/4.md)
+- [Recursion 의 응용 - Counting Cells in a Blob](src/com/company/study/algorithm/lesson01_recursion/chap05/Code01.java)
+- [Recursion 의 응용 - n queens problem](src/com/company/study/algorithm/lesson01_recursion/chap06/6.md)
+- [멱집합(Powerset)](src/com/company/study/algorithm/lesson01_recursion/chap07/7.md)
