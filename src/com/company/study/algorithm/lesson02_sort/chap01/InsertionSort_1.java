@@ -1,27 +1,24 @@
 package com.company.study.algorithm.lesson02_sort.chap01;
 
-public class InsertionSort {
+public class InsertionSort_1 {
     public static int[] InsertionSort(int arr[]){
         for (int i=1; i<arr.length; i++){
-            int index = i;
-            for (int j=i-1; j>=0; j--){
-                if (arr[j]>arr[index]){
-                    int tmp = arr[index];
-                    arr[index] = arr[j];
-                    arr[j] = tmp;
-                    index =j;
-                }else {
-                    break;
-                }
 
+            int target = arr[i];
+            int j = i-1;
+            while (j>0 && arr[j]>target){
+                arr[j+1] =arr[j];
+                j--;
             }
+            arr[j+1] =target;
+
         }
         return arr;
 
 
     }
     public static void main(String[] args) {
-        int arr[] = {45,66,10,14,37,13,94,28,98};
+        int arr[] = {6,8,45,66,10,14,19,37,13,94,9,28,98};
         for (int x : arr){
             System.out.print(x+" ");
         }
