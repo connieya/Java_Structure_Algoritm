@@ -1,69 +1,6 @@
-# 합병 정렬(merge sort)
+package com.company.study.algorithm.lesson02_sort.chap02;
 
-분할정복법
-
-Divide and Conquer
-
-- 분할 : 해결하고자 하는 문제를 작은 크기의 동일한 문제들로 분할
-- 정복 : 각각의 작은 문제를 순환적으로 해결
-- 합병 : 작은 문제의 해를 합하여(merge) 원래 문제에 대한 해를 구함
-
-```java
-
-public class Merge_Sort {
-    public static void main(String[] args) {
-        int [] arr = { 23, 11,25,9,17,91,67,43};
-
-        for (int x : arr){
-            System.out.print(x+ " ");
-        }
-        mergeSortDivide(arr, 0, arr.length-1);
-        System.out.println();
-
-        for (int x : arr){
-            System.out.print(x+ " ");
-        }
-    }
-    private static void mergeSortDivide(int[]arr , int left  , int right){
-        if (left < right){
-            int mid = (left+right)/2;
-
-            mergeSortDivide(arr, left,mid);
-
-            mergeSortDivide(arr, mid+1,right);
-
-            merge(arr, left,mid,right);
-        }
-    }
-    private static void merge(int [] arr ,int left , int mid ,int right){
-        int i = left;
-        int j =  mid+1;
-        int p = left;
-
-        int[] temp = new int[arr.length];
-        while (i<= mid && j<= right){
-            if (arr[i]<arr[j]){
-                temp[p++] = arr[i++];
-            }else {
-                temp[p++] =  arr[j++];
-            }
-        }
-
-        while (i<= mid){
-            temp[p++] = arr[i++];
-        }
-        while (j<=right){
-            temp[p++] =  arr[j++];
-        }
-
-        for (int index = left; index<p; index++){
-            arr[index] = temp[index];
-        }
-    }
-}
-```
-
-```java
+import java.util.Scanner;
 
 public class Merge_Sort2 {
     private static int[] sorted;
@@ -123,5 +60,3 @@ public class Merge_Sort2 {
         System.out.println();
     }
 }
-
-```

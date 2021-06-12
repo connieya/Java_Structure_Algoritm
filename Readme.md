@@ -69,3 +69,4 @@
 
 - [기본적인 정렬 알고리즘](src/com/company/study/algorithm/lesson02_sort/chap01/1.md)
 - [합병정렬(merge sort)](src/com/company/study/algorithm/lesson02_sort/chap02/2.md)
+- [빠른정렬(quick sort)](src/com/company/study/algorithm/lesson02_sort/chap03/)
