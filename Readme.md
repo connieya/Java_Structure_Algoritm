@@ -70,3 +70,9 @@
 - [기본적인 정렬 알고리즘](src/com/company/study/algorithm/lesson02_sort/chap01/1.md)
 - [합병정렬(merge sort)](src/com/company/study/algorithm/lesson02_sort/chap02/2.md)
 - [빠른정렬(quick sort)](src/com/company/study/algorithm/lesson02_sort/chap03/)
+- [힙정렬(heap sort) -1](src/com/company/study/algorithm/lesson02_sort/chap04/4.md)
+
+## 검색트리 - 이진검색트리
+- [트리와 이진트리](src/com/company/study/algorithm/lesson03_tree/chap01_tree_binarytree/1.md)
+
+
