@@ -1,4 +1,4 @@
-package com.company.study.structure08_scheduler;
+package com.company.study.structure.lesson08_scheduler.chap01;
 
 public class DurationEvent extends Event {
     public MyDate begin;

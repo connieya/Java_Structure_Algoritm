@@ -1,6 +1,6 @@
-package com.company.study.structure08_scheduler;
+package com.company.study.structure.lesson08_scheduler.chap01;
 
-public class DeadLinedEvent extends Event{
+public class DeadLinedEvent extends Event {
     public String title;
     public MyDate date;
 

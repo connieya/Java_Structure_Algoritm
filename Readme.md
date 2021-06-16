@@ -42,9 +42,11 @@
 
 ## 상속(Inheritance)
 
+## 예제(Scheduler Program)
+- [예제(Scheduler Program)1](src/com/company/study/structure/lesson08_scheduler/chap01/스케줄러프로그램.md)
 
-
-
+## 추상클래스와 인터페이스
+- 추상클래스와 인터페이스 1
 
 
 
@@ -72,6 +74,8 @@
 - [빠른정렬(quick sort)](src/com/company/study/algorithm/lesson02_sort/chap03/)
 - [힙정렬(heap sort)](src/com/company/study/algorithm/lesson02_sort/chap04/4.md)
 - [힙정렬(heap sort) -정렬할 배열을 힙으로 만들기 ](src/com/company/study/algorithm/lesson02_sort/chap05/5.md)
+- [힙(heap)의 다른 응용: 우선순위 큐(priority queue)](src/com/company/study/algorithm/lesson02_sort/chap06/6.md)
+- [정렬의 lower bound](src/com/company/study/algorithm/lesson02_sort/chap07/7.md)
 
 ## 검색트리 - 이진검색트리
 - [트리와 이진트리](src/com/company/study/algorithm/lesson03_tree/chap01_tree_binarytree/1.md)
