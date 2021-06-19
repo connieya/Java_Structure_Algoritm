@@ -76,6 +76,7 @@
 - [힙정렬(heap sort) -정렬할 배열을 힙으로 만들기 ](src/com/company/study/algorithm/lesson02_sort/chap05/5.md)
 - [힙(heap)의 다른 응용: 우선순위 큐(priority queue)](src/com/company/study/algorithm/lesson02_sort/chap06/6.md)
 - [정렬의 lower bound](src/com/company/study/algorithm/lesson02_sort/chap07/7.md)
+- [sorting in linear time](src/com/company/study/algorithm/lesson02_sort/chap08/8.md)
 
 ## 검색트리 - 이진검색트리
 - [트리와 이진트리](src/com/company/study/algorithm/lesson03_tree/chap01_tree_binarytree/1.md)
