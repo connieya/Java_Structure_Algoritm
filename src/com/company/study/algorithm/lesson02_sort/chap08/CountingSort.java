@@ -1,9 +1,12 @@
 package com.company.study.algorithm.lesson02_sort.chap08;
 
+import java.util.HashSet;
 import java.util.Scanner;
+import java.util.Set;
 
 public class CountingSort {
     public static void main(String[] args) {
+
         int [] arr = {2,5,3,0,2,3,0,3};
 
         Scanner sc = new Scanner(System.in);
