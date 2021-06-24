@@ -78,7 +78,7 @@
 - [정렬의 lower bound](src/com/company/study/algorithm/lesson02_sort/chap07/7.md)
 - [sorting in linear time](src/com/company/study/algorithm/lesson02_sort/chap08/8.md)
 - [sorting in linear time : Radix Sort](src/com/company/study/algorithm/lesson02_sort/chap09/9.md)
-
+- [Java에서의 정렬](src/com/company/study/algorithm/lesson02_sort/chap10/10.md)
 ## 검색트리 - 이진검색트리
 - [트리와 이진트리](src/com/company/study/algorithm/lesson03_tree/chap01_tree_binarytree/1.md)
 
